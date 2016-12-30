@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "AskSmartii",
+      "slots": [
+        {
+          "name": "Question",
+          "type": "LIST_OF_QUESTIONS"
+        }
+      ]
+    }
+  ]
+}
